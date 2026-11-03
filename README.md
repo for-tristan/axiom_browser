@@ -105,8 +105,3 @@ windows/               # Windows desktop platform code (C++)
 web/                   # Web build assets
 ```
 
-## Pushing to GitHub
-
-See `docs/PUSH_TO_GITHUB.md` for the safe, token-free workflow using
-`gh auth login` (interactive browser flow). **Never paste a GitHub PAT
-into a terminal command or chat - use git credential manager instead.**
